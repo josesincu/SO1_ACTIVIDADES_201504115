@@ -5,6 +5,7 @@
 #### Monolítico:
 
 Definición: En un kernel monolítico, todas las funciones del sistema operativo se ejecutan en un solo espacio de memoria.
+
 Características:
 Mayor eficiencia en términos de rendimiento, ya que no hay gastos generales de comunicación entre módulos.
 Menor modularidad, ya que todas las funciones están integradas en un solo núcleo.
