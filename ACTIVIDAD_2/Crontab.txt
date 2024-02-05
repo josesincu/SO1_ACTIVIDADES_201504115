@@ -1,0 +1,8 @@
+minuto - de 0 a 59
+hora - de 0 a 23
+día del mes - del 1 al 31
+mes - del 1 al 12 O ene, feb, mar, abr, etc.
+día de la semana - de 0 a 6 (domingo = 0 o 7) O dom, lun, tue, wed, thu, vie, sáb
+comando
+m h d m 1  
+5 7 5 2 1 /home/dark/Script.sh
